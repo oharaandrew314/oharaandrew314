@@ -1,7 +1,5 @@
 # Andrew O'Hara
-Backend Developer | Open-Source | Content Creator | Speaker | Advocate
-
-
+__Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Advocate__
 
 ## Build a REST API with Kotlin and Http4k
 
@@ -16,14 +14,20 @@ Presented live in Copenhagen at KotlinConf 2024.
 
 [![See on YouTube](https://img.youtube.com/vi/L1DvD83sjAw/maxresdefault.jpg)](https://www.youtube.com/watch?v=L1DvD83sjAw)
 
+## The Ultimate DynamoDB SDK
+
+Learn about the Dynamo DB Table Mapper and Dynamo DB Fake I helped build for Http4k Connect.
+
+[![See on Youtube](https://img.youtube.com/vi/wq9hiEhjqCw/maxresdefault.jpg)](https://youtu.be/wq9hiEhjqCw?si=ZG9y7I74Qjpn2C7M)
+
 ## I Made a Kotlin Plugin for Dynamo DB Mapper
 
-Beans aren’t your only option anymore.
+_Beans aren’t your only option anymore_
 
 [![See on Medium](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*lpgtN1gT6Wk_e0HmTM15Aw.jpeg)](https://medium.com/better-programming/i-made-a-kotlin-plugin-for-dynamo-db-mapper-cce1924fcd1e)
 
 ## Write Testable Kotlin Services
 
-Your tests aren’t the problem — it’s your untestable code
+_Your tests aren’t the problem — it’s your untestable code_
 
 [![See on Medium](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_X3qQBfkqPc-d5ldVT4mow.jpeg)](https://medium.com/better-programming/i-made-a-kotlin-plugin-for-dynamo-db-mapper-cce1924fcd1e)
