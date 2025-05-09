@@ -2,13 +2,27 @@
 __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Advocate__
 
 <span>
-    <img width="120" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-youtube.png" alt="Subscribe on YouTube">
+    <img
+        width="32"
+        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-youtube-square.png" alt="Subscribe on YouTube"
+        style="padding: 0.5em 0.5em 0.5em 0.5em"
+    >
         <a href="https://www.youtube.com/channel/UC_0YOasOvIws2f3-R6jsjmA"/>
     </img>
-    <img width="120" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-medium.png" alt="Follow on Medium">
+    <img
+        width="32"
+        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-medium.png"
+        alt="Follow on Medium"
+        style="padding: 0.5em 0.5em 0.5em 0.5em"
+    >
         <a href="https://medium.com/@ohara.andrew314"/>
     </img>
-    <img width="120" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-linkedin.png" alt="Follow on LinkedIn">
+    <img
+        width="32"
+        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-linkedin.png"
+        alt="Follow on LinkedIn"
+        style="padding: 0.5em 0.5em 0.5em 0.5em"
+    >
         <a href="https://www.linkedin.com/in/oharaandrew314"/>
     </img>
 </p>
