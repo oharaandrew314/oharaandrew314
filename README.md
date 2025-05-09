@@ -1,6 +1,14 @@
 # Andrew O'Hara
 __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Advocate__
 
+<p align="center">
+    <img width="720" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/youtube.png" alt="Subscribe on YouTube"><a href="https://www.youtube.com/channel/UC_0YOasOvIws2f3-R6jsjmA"/></img>
+
+    <img width="720" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/linkedin.png" alt="Follow me on LinkedIn"><a href="https://www.linkedin.com/in/oharaandrew314"/></img>
+</p>
+
+![](https://img.youtube.com/vi/nHVeMEbZYKI/maxresdefault.jpg)
+
 ## Build a REST API with Kotlin and Http4k
 
 Check out the series on YouTube; where I walk you through step by step: from project init to deployment.
