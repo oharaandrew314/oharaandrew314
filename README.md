@@ -2,32 +2,32 @@
 __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Advocate__
 
 <span>
-    <img
-        width="32"
-        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-youtube-square.png"
-        target="_blank"
-        alt="Subscribe on YouTube"
-        style="padding: 0.5em 0.5em 0.5em 0.5em"
-    >
-        <a href="https://www.youtube.com/channel/UC_0YOasOvIws2f3-R6jsjmA"/>
-    </img>
-    <img
-        width="32"
-        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-medium.png"
-        target="_blank"
-        alt="Follow on Medium"
-        style="padding: 0.5em 0.5em 0.5em 0.5em"
-    >
-        <a href="https://medium.com/@ohara.andrew314"/>
-    </img>
-    <img
-        width="32"
-        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-linkedin.png"
-        target="_blank"
-        alt="Follow on LinkedIn"
-        style="padding: 0.5em 0.5em 0.5em 0.5em"
-    >
-        <a href="https://www.linkedin.com/in/oharaandrew314"/>
+    <a href="https://www.youtube.com/channel/UC_0YOasOvIws2f3-R6jsjmA">
+        <img
+            width="32"
+            src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-youtube-square.png"
+            target="_blank"
+            alt="Subscribe on YouTube"
+            style="padding: 0.5em 0.5em 0.5em 0.5em"
+        />
+    </a>
+     <a href="https://medium.com/@ohara.andrew314">
+        <img
+            width="32"
+            src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-medium.png"
+            target="_blank"
+            alt="Follow on Medium"
+            style="padding: 0.5em 0.5em 0.5em 0.5em"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/oharaandrew314">
+        <img
+            width="32"
+            src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-linkedin.png"
+            target="_blank"
+            alt="Follow on LinkedIn"
+            style="padding: 0.5em 0.5em 0.5em 0.5em"
+        />
     </img>
 </span>
 
