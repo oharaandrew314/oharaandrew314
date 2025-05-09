@@ -29,7 +29,7 @@ __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Adv
     >
         <a href="https://www.linkedin.com/in/oharaandrew314"/>
     </img>
-</p>
+</span>
 
 
 ## Build a REST API with Kotlin and Http4k
