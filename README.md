@@ -4,7 +4,9 @@ __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Adv
 <span>
     <img
         width="32"
-        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-youtube-square.png" alt="Subscribe on YouTube"
+        src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-youtube-square.png"
+        target="_blank"
+        alt="Subscribe on YouTube"
         style="padding: 0.5em 0.5em 0.5em 0.5em"
     >
         <a href="https://www.youtube.com/channel/UC_0YOasOvIws2f3-R6jsjmA"/>
@@ -12,6 +14,7 @@ __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Adv
     <img
         width="32"
         src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-medium.png"
+        target="_blank"
         alt="Follow on Medium"
         style="padding: 0.5em 0.5em 0.5em 0.5em"
     >
@@ -20,6 +23,7 @@ __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Adv
     <img
         width="32"
         src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-linkedin.png"
+        target="_blank"
         alt="Follow on LinkedIn"
         style="padding: 0.5em 0.5em 0.5em 0.5em"
     >
