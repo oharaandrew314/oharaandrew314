@@ -1,9 +1,16 @@
 # Andrew O'Hara
 __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Advocate__
 
-<p align="center">
-    <img width="240" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/youtube.png" alt="Subscribe on YouTube"><a href="https://www.youtube.com/channel/UC_0YOasOvIws2f3-R6jsjmA"/></img>
-    <img width="240" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/linkedin.png" alt="Follow me on LinkedIn"><a href="https://www.linkedin.com/in/oharaandrew314"/></img>
+<span>
+    <img width="120" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-youtube.png" alt="Subscribe on YouTube">
+        <a href="https://www.youtube.com/channel/UC_0YOasOvIws2f3-R6jsjmA"/>
+    </img>
+    <img width="120" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-medium.png" alt="Follow on Medium">
+        <a href="https://medium.com/@ohara.andrew314"/>
+    </img>
+    <img width="120" src="https://raw.githubusercontent.com/oharaandrew314/oharaandrew314/main/icon-linkedin.png" alt="Follow on LinkedIn">
+        <a href="https://www.linkedin.com/in/oharaandrew314"/>
+    </img>
 </p>
 
 
@@ -11,14 +18,14 @@ __Backend Specialist | Open-Source | Tech Lead | Content Creator | Speaker | Adv
 
 Check out the series on YouTube; where I walk you through step by step: from project init to deployment.
 
-[![See on YouTube](https://img.youtube.com/vi/nHVeMEbZYKI/maxresdefault.jpg)](https://www.youtube.com/watch?v=nHVeMEbZYKI&list=PLjea9qMgiQ2O1PpPYXK9EfxJeBM2zgBoT)
+[![See on YouTube](https://img.youtube.com/vi/nHVeMEbZYKI/hqdefault.jpg)](https://www.youtube.com/watch?v=nHVeMEbZYKI&list=PLjea9qMgiQ2O1PpPYXK9EfxJeBM2zgBoT)
 
 
 ## Have your Serverless Kotlin Functions and Eat Them Too
 
 Presented live in Copenhagen at KotlinConf 2024.
 
-[![See on YouTube](https://img.youtube.com/vi/L1DvD83sjAw/maxresdefault.jpg)](https://www.youtube.com/watch?v=L1DvD83sjAw)
+[![See on YouTube](https://img.youtube.com/vi/L1DvD83sjAw/hqdefault.jpg)](https://www.youtube.com/watch?v=L1DvD83sjAw)
 
 ## The Ultimate DynamoDB SDK
 
